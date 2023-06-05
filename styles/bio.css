@@ -1,0 +1,17 @@
+body {
+    margin: auto;
+    font-family: inherit;
+}
+
+header {
+    display: flex;
+    background-color: #323232;
+    padding: 10px;
+    font-family: inherit;
+    flex-direction: row; 
+    justify-content:space-between;
+    align-items: right;
+    margin: auto;
+    position: auto;
+    width: auto
+}
